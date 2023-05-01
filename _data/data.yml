@@ -108,14 +108,14 @@ experiences:
             - Tomography data post-processing
 
       - role: "<u>Engineering internship</u>: Creation of a fatigue test bench for a humanoid-robot foot"
-        time: 2018 - 2019 (6 months)
+        time: 2018/19 (6 months)
         company: '<a href="https://en.wandercraft.eu/" style="color: #4c24e0"  target="_blank">Wandercraft</a> - Paris  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
         details: |
             - Design and assembly of the test bench
             - Study on materials and processes by considering mechanical and economic aspects for production-oriented approach
 
       - role: "<u>Research internship</u>: Numerical simulation at an atomistic scale of the solute segregation toward grain boundaries in an Al-Mg Alloy"
-        time: 2017 - 2018 (10 months)
+        time: 2017/18 (10 months)
         company: '<a href="https://mtrl.ubc.ca/research/research-groups/microstructure/" style="color: #4c24e0"  target="_blank">Microstructure group</a> - The University of British Columbia - Vancouver  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png" width="25" title="Canada">'
         boss: <i>with Chad W. Sinclair</i>
         details: |
@@ -184,7 +184,7 @@ publications:
         authors: F. Daghia, C. Cluzel, L. Hébrard, F. Churlaud, B. Courtemanche
         conference: "Composites Part A: Applied Science and Manufacturing - 113, pp. 83-94 - 2018"
 
-      - title: "11th European Solid Mechanics Conference"
+      - title: "11th European Solid Mechanics Conference - 2022"
         link: "https://www.esmc2022.org/"
         authors: Talk - "3D characterization of internal fatigue cracks in metallic material during gigacycle fatigue"
 
@@ -201,6 +201,7 @@ skills:
     toolset:
       - name: Python
         level: 98%
+        NbYear: 5+
 
       - name: Matlab
         level: 60%
