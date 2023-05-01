@@ -65,7 +65,7 @@ sidebar:
 education:
     title: Education
     info:
-      - degree: MSc in Material Sciences & Mechanical Enginneering
+      - degree: MSc in Material Sciences & Mechanical Enginneering (MAGIS)
         university: École Normale Supérieure de Paris-Saclay
         time: 2016 - 2020
         details: |
@@ -133,10 +133,6 @@ experiences:
 
 projects:
     title: Experimental skills
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -184,23 +180,28 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: <i>In Submission</i> Environment effect on internal fatigue crack propagation studied with in-situ X-ray microtomography
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: L. Hébrard, J.Y. Buffiere, T. Palin-Luc, N. Ranc, M. Majkut, A. King, A. Weck
+        conference: "#"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Miniature laser powder bed fusion system for in situ synchrotron x-ray micro-computed tomography experiments at the European Synchrotron Radiation Facility "
+        link: "https://doi.org/10.1063/5.0090623"
+        authors: P. Lhuissier, L. Hébrard, X. Bataillon, P. Lapouge, F. Coste, P. Peyre, E. Boller, J.J. Blandin, L. Salvo, G. Martin
+        conference: "Review of Scientific Instruments - Vol 93, Issue 8 - 2022"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "The Double Drum Peel (DDP) test: A new concept to evaluate the delamination fracture toughness of cylindrical laminates"
+        link: "https://doi.org/10.1016/j.compositesa.2018.07.020"
+        authors: F. Daghia, C. Cluzel, L. Hébrard, F. Churlaud, B. Courtemanche
+        conference: "Composites Part A: Applied Science and Manufacturing - 113, pp. 83-94 - 2018"
+
 
 skills:
     title: Computational skills
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     toolset:
       - name: Python & Django
