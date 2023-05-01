@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Louis Hébrard
-    tagline: Doctoral Student
+    tagline: Doctoral Student in Materials Sciences & Mechanical Engineering
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -95,6 +95,7 @@ experiences:
             - Protocol adaptation and sample design
             - Tomography data post-processing and fracture surface analysis
             - Finite element analysis and thermal aspect study
+            (- Teaching Engineering part production for undergraduates during one year and a half)
 
       - role: Research internship_ In-situ synchrotron tomography of laser powder bed fusion additive manufacturing
         time: 2020 (6 months)
@@ -134,25 +135,21 @@ experiences:
 projects:
     title: Experimental skills
     assignments:
-      - title: SEM & EBSD observation
+      - title: SEM & EBSD
         #link: "#"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Scanning electron microscope used to analyse metal microstructure."
 
       - title: Polishing and Sample preparation
         #link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Particularly on Ti-6Al-4V samples in order to analyse it with optical and SEM."
 
       - title: Tomography 
         #link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "In-lab tomograph (<i>v|tome|x</i>)"
 
-      - title: Synchrotron
+      - title: Synchrotron experiment
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Taking part in four-day-long synchrotron projects, from the proposal submission to the data post-processing."
 
 #oss:
 #    title: OSS Contributions
@@ -190,6 +187,14 @@ publications:
         link: "https://doi.org/10.1016/j.compositesa.2018.07.020"
         authors: F. Daghia, C. Cluzel, L. Hébrard, F. Churlaud, B. Courtemanche
         conference: "Composites Part A: Applied Science and Manufacturing - 113, pp. 83-94 - 2018"
+
+      - title: "11th European Solid Mechanics Conference"
+        link: "https://www.esmc2022.org/"
+        authors: Talk - "3D characterization of internal fatigue cracks in metallic material during gigacycle fatigue"
+
+      - title: "18th European Mechanics of Materials Conference - 2022"
+        link: "https://euromech.org/conferences/EMMC/EMMC18"
+        authors: Talk - "3D characterization of internal fatigue cracks in Ti-6al-4V during gigacycle fatigue"
 
 
 skills:
