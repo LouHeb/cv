@@ -65,28 +65,23 @@ sidebar:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Material Sciences & Mechanical Enginneering
+        university: École Normale Supérieure de Paris-Saclay
+        time: 2016 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          MAGIS - Material and Engineering sciences (Material Sciences, Constitutive equations, Numerical-experimental methods, Metal processing, Computed-aided design...)
+
+      - degree: BSc in Physics & Engineering
+        university: École Normale Supérieure de Paris-Saclay
+        time: 2015 - 2016
+
+      - degree: Preparatory Classes in Engineering Sciences
+        university: Lycée Saint-Louis (Paris)
+        time: 2013 - 2015
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Intensive courses in Mathematics, Physics and Engineering designed to prepare for competitive entrance exams to French Grandes Écoles
+
+
 experiences:
     title: Research projects
     info:
@@ -130,6 +125,11 @@ experiences:
         details: |
             - Modelisation of grain boundaries and atomistic segregation with a hybrid Molecular Dynamics method
             - Exploitation of numerical data to build free energy diagrams
+
+      - role: Engineering internship_ Evaluation of the control loads on a H175 helicopter
+        time: 2017 (14 weeks)
+        company: Airbus Helicopters - Marignane - France
+
 
 projects:
     title: Experimental skills
