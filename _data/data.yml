@@ -106,26 +106,30 @@ experiences:
         company: Simap Lab in Grenoble & Pimm Lab in Paris - France
         boss: <i>with Pierre Lhuissier, Guilhem Martin, Patrice Peyre & Frédéric Coste</i>
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Synchrotron microtomography adapted experimental device to study the impacting parameters of the LPBF process
+            - Adaptation of the machine to laboratory tests
+            - Preliminary tests to validate the protocol
+            - Tomography data post-processing
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        boss: JY buuff
+      - role: Engineering internship_ Creation of a fatigue test bench for a humanoid-robot foot
+        time: 2018 - 2019 (6 months)
+        company: Wandercraft - Paris - France
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Design and assembly of the test bench
+            - Study on materials and processes by considering mechanical and economic aspects for production-oriented approach
+
+      - role: Research internship_ Numerical simulation at an atomistic scale of the solute segregation toward grain boundaries in an Al-Mg Alloy
+        time: 2017 - 2018 (10 months)
+        company: Microstructure group - The University of British Columbia - Vancouver - Canada
+        boss: <i>with Chad W. Sinclair</i>
+        details: |
+            - Modelisation of grain boundaries and atomistic segregation with a hybrid Molecular Dynamics method
+            - Exploitation of numerical data to build free energy diagrams
 
 projects:
     title: Experimental skills
