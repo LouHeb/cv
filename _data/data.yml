@@ -87,8 +87,8 @@ experiences:
     info:
       - role: PhD_ Internal fatigue crack propagation study with in-situ microtomography
         time: 2020 - Present
-        #company: '<a href="https://mateis.insa-lyon.fr/fr" style="color: #4c24e0"  target="_blank">Matéis Laboratory</a> - Lyon  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
-        #boss: '<i>with Jean-Yves Buffiere, Thierry Palin-Luc (<a href="https://www.i2m.u-bordeaux.fr/" style="color: #070b88"  target="_blank">I2M Lab</a> - Bordeaux) & Nicolas Ranc (<a href="https://pimm.artsetmetiers.fr/" style="color: #070b88"  target="_blank">Pimm Lab</a> - Paris) </i>'
+        company: '<a href="https://mateis.insa-lyon.fr/fr" style="color: #4c24e0"  target="_blank">Matéis Laboratory</a> - Lyon  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
+        boss: '<i>with Jean-Yves Buffiere, Thierry Palin-Luc (<a href="https://www.i2m.u-bordeaux.fr/" style="color: #070b88"  target="_blank">I2M Lab</a> - Bordeaux) & Nicolas Ranc (<a href="https://pimm.artsetmetiers.fr/" style="color: #070b88"  target="_blank">Pimm Lab</a> - Paris) </i>'
         details: |
           Synchrotron experiment to study Ti-6Al-4V fatigue crack propagation in the gigacycle regime.
           Study of the effect environment: comparison of crack propagation in air and in vacuum
@@ -99,8 +99,8 @@ experiences:
 
       - role: Research internship_ In-situ synchrotron tomography of laser powder bed fusion additive manufacturing
         time: 2020 (6 months)
-        #company: '<a href="https://simap.grenoble-inp.fr/" style="color: #4c24e0"  target="_blank">Simap Lab</a> in Grenoble & <a href="https://pimm.artsetmetiers.fr/" style="color: #4c24e0"  target="_blank">Pimm Lab</a> in Paris  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
-        #boss: <i>with Pierre Lhuissier, Guilhem Martin, Patrice Peyre & Frédéric Coste</i>
+        company: '<a href="https://simap.grenoble-inp.fr/" style="color: #4c24e0"  target="_blank">Simap Lab</a> in Grenoble & <a href="https://pimm.artsetmetiers.fr/" style="color: #4c24e0"  target="_blank">Pimm Lab</a> in Paris  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
+        boss: <i>with Pierre Lhuissier, Guilhem Martin, Patrice Peyre & Frédéric Coste</i>
         details: |
           Synchrotron microtomography adapted experimental device to study the impacting parameters of the LPBF process
             - Adaptation of the machine to laboratory tests
@@ -110,6 +110,7 @@ experiences:
       - role: Engineering internship_ Creation of a fatigue test bench for a humanoid-robot foot
         time: 2018 - 2019 (6 months)
         company: '<a href="https://en.wandercraft.eu/" style="color: #4c24e0"  target="_blank">Wandercraft</a> - Paris  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
+        details: |
             - Design and assembly of the test bench
             - Study on materials and processes by considering mechanical and economic aspects for production-oriented approach
 
