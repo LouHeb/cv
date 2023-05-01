@@ -90,22 +90,16 @@ education:
 experiences:
     title: Research projects
     info:
-      - role: PhD - 
+      - role: PhD_ Internal fatigue crack propagation study with in-situ microtomography
         time: 2020 - Present
         company: Matéis Laboratory - Lyon - France
-        boss: JY buuff
+        boss: <i>with Jean-Yves Buffiere, Thierry Palin-Luc (I2M Lab - Bordeaux) & Nicolas Ranc (PIMM Lab - Paris)boss: <\i>
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Synchrotron experiment to study Ti-6Al-4V fatigue crack propagation in the gigacycle regime.
+          Study of the effect environment: comparison of crack propagation in air and in vacuum
+            - Protocol adaptation and sample design
+            - Tomography data post-processing and fracture surface analysis
+            - Finite element analysis and thermal aspect study
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
