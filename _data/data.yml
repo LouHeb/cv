@@ -90,9 +90,10 @@ education:
 experiences:
     title: Research projects
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: PhD - 
+        time: 2020 - Present
+        company: Matéis Laboratory - Lyon - France
+        boss: JY buuff
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -108,6 +109,7 @@ experiences:
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
+        boss: JY buuff
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -119,6 +121,7 @@ experiences:
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
+        boss: JY buuff
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
