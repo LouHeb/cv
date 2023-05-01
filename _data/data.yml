@@ -175,10 +175,6 @@ projects:
 
 publications:
     title: Publications &amp; Conferences
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: <i>In Submission</i> Environment effect on internal fatigue crack propagation studied with in-situ X-ray microtomography
         link: "#"
@@ -199,7 +195,7 @@ publications:
 skills:
     title: Computational skills
     intro: >
-      You can list your side projects in this
+      Ranked in year obetween 1 and 5You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
