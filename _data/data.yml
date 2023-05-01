@@ -199,8 +199,6 @@ skills:
       <i>Ranked between 1 and 5+ years of experience</i>
 
     toolset:
-      - name: Years of experience
-        NbYear: 5+
 
       - name: Python
         level: 98%
