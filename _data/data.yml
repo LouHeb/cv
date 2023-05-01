@@ -202,7 +202,7 @@ skills:
 
       - name: "Python       5"
         level: 98%
-        #NbYear: 5+
+        NbYear: 5+
 
       - name: Matlab
         level: 60%
