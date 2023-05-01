@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: adresse@email.fr
+    email: louis.hebrard@insa-lyon.fr
     phone: 
     timezone: 
     citizenship:
@@ -196,7 +196,7 @@ publications:
 skills:
     title: Computational skills
     intro: 
-      "<i>maximum: 5 years or more of experience, minimum: 1 year of experience</i>"
+      "<i>(bar minimum: 1 year of experience, bar maximum: 5 years or more of experience)</i>"
 
     toolset:
 
