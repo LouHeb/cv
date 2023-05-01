@@ -110,12 +110,6 @@ experiences:
       - role: Engineering internship_ Creation of a fatigue test bench for a humanoid-robot foot
         time: 2018 - 2019 (6 months)
         company: '<a href="https://en.wandercraft.eu/" style="color: #4c24e0"  target="_blank">Wandercraft</a> - Paris  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
             - Design and assembly of the test bench
             - Study on materials and processes by considering mechanical and economic aspects for production-oriented approach
 
@@ -149,7 +143,7 @@ projects:
         tagline: "In-lab tomograph (<i>v[tome]x</i>)"
 
       - title: Synchrotron experiment
-        link: "#"
+        #link: "#"
         tagline: "Taking part in four-day-long synchrotron projects, from the proposal submission to the data post-processing."
 
 #oss:
