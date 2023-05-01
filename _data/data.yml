@@ -87,8 +87,8 @@ experiences:
     info:
       - role: PhD_ Internal fatigue crack propagation study with in-situ microtomography
         time: 2020 - Present
-        company: '<a href="https://mateis.insa-lyon.fr/fr" style="color: #070b88"  target="_blank">Matéis Laboratory</a> - Lyon  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
-        boss: '<i>with Jean-Yves Buffiere, Thierry Palin-Luc (<a href="https://www.i2m.u-bordeaux.fr/" style="color: #070b88"  target="_blank">I2M Lab</a> - Bordeaux) & Nicolas Ranc (<a href="https://pimm.artsetmetiers.fr/" style="color: #070b88"  target="_blank">Pimm Lab</a> - Paris) </i>'
+        company: '<a href="https://mateis.insa-lyon.fr/fr" style="color: #4c24e0"  target="_blank">Matéis Laboratory</a> - Lyon  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
+        boss: '<i>with Jean-Yves Buffiere, Thierry Palin-Luc (<a href="https://www.i2m.u-bordeaux.fr/" style="color: #4c24e0"  target="_blank">I2M Lab</a> - Bordeaux) & Nicolas Ranc (<a href="https://pimm.artsetmetiers.fr/" style="color: #070b88"  target="_blank">Pimm Lab</a> - Paris) </i>'
         details: |
           Synchrotron experiment to study Ti-6Al-4V fatigue crack propagation in the gigacycle regime.
           Study of the effect environment: comparison of crack propagation in air and in vacuum
@@ -99,7 +99,7 @@ experiences:
 
       - role: Research internship_ In-situ synchrotron tomography of laser powder bed fusion additive manufacturing
         time: 2020 (6 months)
-        company: '<a href="https://simap.grenoble-inp.fr/" style="color: #070b88"  target="_blank">Simap Lab</a> in Grenoble & <a href="https://pimm.artsetmetiers.fr/" style="color: #070b88"  target="_blank">Pimm Lab</a> in Paris  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
+        company: '<a href="https://simap.grenoble-inp.fr/" style="color: #4c24e0"  target="_blank">Simap Lab</a> in Grenoble & <a href="https://pimm.artsetmetiers.fr/" style="color: #070b88"  target="_blank">Pimm Lab</a> in Paris  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
         boss: <i>with Pierre Lhuissier, Guilhem Martin, Patrice Peyre & Frédéric Coste</i>
         details: |
           Synchrotron microtomography adapted experimental device to study the impacting parameters of the LPBF process
@@ -109,7 +109,7 @@ experiences:
 
       - role: Engineering internship_ Creation of a fatigue test bench for a humanoid-robot foot
         time: 2018 - 2019 (6 months)
-        company: '<a href="https://en.wandercraft.eu/" style="color: #070b88"  target="_blank">Wandercraft</a> - Paris  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
+        company: '<a href="https://en.wandercraft.eu/" style="color: #4c24e0"  target="_blank">Wandercraft</a> - Paris  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,7 +121,7 @@ experiences:
 
       - role: Research internship_ Numerical simulation at an atomistic scale of the solute segregation toward grain boundaries in an Al-Mg Alloy
         time: 2017 - 2018 (10 months)
-        company: '<a href="https://mtrl.ubc.ca/research/research-groups/microstructure/" style="color: #070b88"  target="_blank">Microstructure group</a> - The University of British Columbia - Vancouver  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png" width="25" title="Canada">'
+        company: '<a href="https://mtrl.ubc.ca/research/research-groups/microstructure/" style="color: #4c24e0"  target="_blank">Microstructure group</a> - The University of British Columbia - Vancouver  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png" width="25" title="Canada">'
         boss: <i>with Chad W. Sinclair</i>
         details: |
             - Modelisation of grain boundaries and atomistic segregation with a hybrid Molecular Dynamics method
@@ -129,7 +129,7 @@ experiences:
 
       - role: Engineering internship_ Evaluation of the control loads on a H175 helicopter
         time: 2017 (14 weeks)
-        company: '<a href="https://www.airbus.com/en/products-services/helicopters" style="color: #070b88"  target="_blank">Airbus Helicopters</a> - Marignane  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
+        company: '<a href="https://www.airbus.com/en/products-services/helicopters" style="color: #4c24e0"  target="_blank">Airbus Helicopters</a> - Marignane  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/1280px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" width="20" title="France">'
 
 
 
