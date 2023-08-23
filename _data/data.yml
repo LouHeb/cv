@@ -131,7 +131,7 @@ experiences:
 projects:
     title: Experimental skills
     assignments:
-      - title: SEM & EBSD
+      - title: '<a href="https://www.airbus.com/en/products-services/helicopters" style="color: #03053f"  target="_blank">SEM</a>  & EBSD '
         #link: "#"
         tagline: "Scanning electron microscope used to analyse metal microstructure."
 
@@ -206,7 +206,7 @@ skills:
 
     toolset:
 
-      - name: "Python"
+      - name:  '<a href="https://www.airbus.com/en/products-services/helicopters" style="color: #1a0c88"  target="_blank">Python</a>'
         level: 98%
         NbYear: 5+
 
