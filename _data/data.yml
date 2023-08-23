@@ -99,7 +99,7 @@ experiences:
 
       - role: "<u>Research internship</u>: In-situ synchrotron tomography of laser powder bed fusion additive manufacturing"
         time: 2020 (6 months)
-        company: '<a href="https://simap.grenoble-inp.fr/" style="color: #4c24e0"  target="_blank">Simap Lab</a> in Grenoble & <a href="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
+        company: '<a href="https://simap.grenoble-inp.fr/" style="color: #4c24e0" target="_blank">Simap Lab</a> in Grenoble & <a href="https://pimm.artsetmetiers.fr/" style="color: #4c24e0" target="_blank">Pimm Lab</a> in Paris <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
         boss: <i>with Pierre Lhuissier, Guilhem Martin, Patrice Peyre & Frédéric Coste</i>
         details: |
           Synchrotron microtomography adapted experimental device to study the impacting parameters of the LPBF process
