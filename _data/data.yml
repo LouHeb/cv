@@ -131,19 +131,19 @@ experiences:
 projects:
     title: Experimental skills
     assignments:
-      - title: '<a href="https://www.airbus.com/en/products-services/helicopters" style="color: #03053f"  target="_blank">SEM</a>  & EBSD '
+      - title: '<a href="https://en.wikipedia.org/wiki/Scanning_electron_microscope" style="color: #03053f"  target="_blank">SEM</a>  & <a href="https://en.wikipedia.org/wiki/Electron_backscatter_diffraction" style="color: #03053f"  target="_blank">EBSD</a> '
         #link: "#"
         tagline: "Scanning electron microscope used to analyse metal microstructure."
 
-      - title: Polishing and Sample preparation
+      - title: '<a href="https://www.struers.com/en/Knowledge/Grinding-and-polishing#grindingpolishingmethods" style="color: #03053f"  target="_blank">Polishing and Sample preparation</a>'
         #link: "#"
         tagline: "Particularly on Ti-6Al-4V samples in order to analyse it with optical microscopy and SEM."
 
-      - title: Tomography 
+      - title: '<a href="https://en.wikipedia.org/wiki/X-ray_microtomography" style="color: #03053f"  target="_blank">X-ray microtomography</a>'
         #link: "#"
         tagline: "In-lab tomograph (<i>v[tome]x</i>)"
 
-      - title: Synchrotron experiment
+      - title: '<a href="https://www.esrf.fr/home.html" style="color: #03053f"  target="_blank">Synchrotron experiment</a>'
         #link: "#"
         tagline: "Taking part in four-day-long synchrotron projects, from the proposal submission to the data post-processing."
 
@@ -206,38 +206,38 @@ skills:
 
     toolset:
 
-      - name:  '<a href="https://www.airbus.com/en/products-services/helicopters" style="color: #1a0c88"  target="_blank">Python</a>'
+      - name:  '<a href="https://www.python.org/" style="color: #1a0c88"  target="_blank">Python</a>'
         level: 98%
         NbYear: 5+
 
-      - name: Matlab
+      - name: '<a href="https://www.mathworks.com/products/matlab.html" style="color: #1a0c88"  target="_blank">Matlab</a>'
         level: 60%
 
-      - name: Abaqus & Gmsh
+      - name: '<a href="https://www.3ds.com/products-services/simulia/products/abaqus/" style="color: #1a0c88"  target="_blank">Abaqus</a> & <a href="https://gmsh.info/" style="color: #1a0c88"  target="_blank">Gmsh</a>'
         level: 80%
 
-      - name: Cast3M
+      - name: '<a href="http://www-cast3m.cea.fr/" style="color: #1a0c88"  target="_blank">Cast3M</a>'
         level: 20%
 
-      - name: SolidEdge
+      - name: '<a href="https://solidedge.siemens.com/en/" style="color: #1a0c88"  target="_blank">SolidEdge</a>'
         level: 60%
 
-      - name: Catia V5
+      - name: '<a href="https://www.3ds.com/products-services/catia/" style="color: #1a0c88"  target="_blank">Catia V5</a>'
         level: 40%
 
-      - name: Solidworks
+      - name: '<a href="https://www.solidworks.com/" style="color: #1a0c88"  target="_blank">Solidworks</a>'
         level: 20%
 
-      - name: Latex
+      - name: '<a href="https://www.latex-project.org/" style="color: #1a0c88"  target="_blank">Latex</a>'
         level: 98%
 
-      - name: LAMMPS
+      - name: '<a href="https://www.lammps.org/#gsc.tab=0" style="color: #1a0c88"  target="_blank">LAMMPS</a>'
         level: 20%
 
-      - name: Excel
+      - name: '<a href="https://fr.wikipedia.org/wiki/Microsoft_Excel" style="color: #1a0c88"  target="_blank">Microsoft Excel</a>'
         level: 98%
 
-      - name: Photoshop
+      - name: '<a href="https://fr.wikipedia.org/wiki/Adobe_Photoshop" style="color: #1a0c88"  target="_blank">Adobe Photoshop</a>'
         level: 98%
 
 footer: >
