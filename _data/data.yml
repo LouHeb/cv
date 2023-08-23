@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: Teaching experience
     summary: |
-      · 2020 - 2022: Mechanical system conception, Technical drawing and Computer-aided design (undergraduates from '<a href="https://www.insa-lyon.fr/en/node/17" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">INSA Lyon</a>)
+      · 2020 - 2022: Mechanical system conception, Technical drawing and Computer-aided design (undergraduates from <a href="https://www.insa-lyon.fr/en/node/17" style="color: #03053f; background-color: #e8f0ff"  target="_blank">INSA Lyon</a>)
 
 
 education:
@@ -185,11 +185,13 @@ publications:
         conference: "Composites Part A: Applied Science and Manufacturing - 113, pp. 83-94 - 2018
         _______________________"
 
-      - title: '2022 - 11th European Solid Mechanics Conference <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" width="20" title="Ireland">'
+      - title: '2022 - 11th European Solid Mechanics Conference'
+        image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
         link: "https://www.esmc2022.org/"
         authors: Talk - "3D characterization of internal fatigue cracks in metallic material during gigacycle fatigue"
 
-      - title: '2022 - 18th European Mechanics of Materials Conference <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1920px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" width="20" title="United Kingdom">'
+      - title: '2022 - 18th European Mechanics of Materials Conference'
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1920px-Flag_of_the_United_Kingdom_%281-2%29.svg.png"
         link: "https://euromech.org/conferences/EMMC/EMMC18"
         authors: Talk - "3D characterization of internal fatigue cracks in Ti-6al-4V during gigacycle fatigue"
 
