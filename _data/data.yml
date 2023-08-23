@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://raw.githubusercontent.com/LouHeb/cv/master/assets/images/CV_2020.jpg
+    pdf: https://raw.githubusercontent.com/LouHeb/cv/master/assets/images/CV_Last.jpg
 
     languages:
       title: Languages
@@ -36,7 +36,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional (C1 Adv.)
+          level: Professional - C1 Adv.
 
         - idiom: Spanish
           level: Basics
