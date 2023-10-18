@@ -191,6 +191,11 @@ publications:
         conference: "Composites Part A: Applied Science and Manufacturing - 113, pp. 83-94 - 2018
         _______________________"
 
+      - title: 2023 - FEMS Euromat 2023
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png"
+        link: "https://euromat2023.com/"
+        authors: Talk - " Observation of the environment effect on internal fatigue crack propagation in Ti-6Al-4V with in-situ X-ray microtomography"
+
       - title: 2022 - 11th European Solid Mechanics Conference
         image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
         link: "https://www.esmc2022.org/"
@@ -244,4 +249,4 @@ skills:
         level: 98%
 
 footer: >
-    Last update: August 2023 - Design inspired by <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Sharath Kumar </a>
+    Last update: October 2023 - Design inspired by <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Sharath Kumar </a>
