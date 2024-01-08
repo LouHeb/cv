@@ -123,7 +123,7 @@ experiences:
         boss: <i>with Chad W. Sinclair</i>
         details: |
             - Modelisation of grain boundaries and atomistic segregation with a hybrid Molecular Dynamics method
-            - Exploitation of numerical data to build free energy diagrams
+            - Post-processing of numerical data to build free energy diagrams
 
       - role: '<p style="color: #4c24e0">Engineering internship</p> Evaluation of the control loads on a H175 helicopter'
         time: 2017 (14 weeks)
