@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: louis.hebrard@insa-lyon.fr
+    email: louis.hebrard@ens-paris-saclay.fr
     phone: 
     timezone: 
     citizenship:
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://raw.githubusercontent.com/LouHeb/cv/master/assets/images/CV_Last.jpg
+    pdf: https://raw.githubusercontent.com/LouHeb/cv/master/assets/images/CV.pdf
 
     languages:
       title: Languages
