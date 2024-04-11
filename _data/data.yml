@@ -68,7 +68,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: 'MSc in Material Sciences & Mechanical Enginneering (<a href="https://www.universite-paris-saclay.fr/en/education/master/mechanics/m2-mechanics-materials-engineering-and-integrity-structures" style="color: white; background-color: #7175e9"  target="_blank">MAGIS</a>)'
+      - degree: 'MSc in Material Sciences & Mechanical Engineering (<a href="https://www.universite-paris-saclay.fr/en/education/master/mechanics/m2-mechanics-materials-engineering-and-integrity-structures" style="color: white; background-color: #7175e9"  target="_blank">MAGIS</a>)'
         university: École Normale Supérieure de Paris-Saclay
         time: 2016 - 2020
         details: |
