@@ -225,6 +225,9 @@ skills:
       - name: '<a href="https://www.mathworks.com/products/matlab.html" style="color: #1a0c88"  target="_blank">Matlab</a>'
         level: 60%
 
+      - name: '<a href="https://imagej.net/ij/" style="color: #1a0c88"  target="_blank">ImageJ / Fiji</a>'
+        level: 60%
+
       - name: '<a href="https://www.3ds.com/products-services/simulia/products/abaqus/" style="color: #1a0c88"  target="_blank">Abaqus</a> & <a href="https://gmsh.info/" style="color: #1a0c88"  target="_blank">Gmsh</a>'
         level: 80%
 
