@@ -87,6 +87,13 @@ education:
 experiences:
     title: Research projects
     info:
+      - role: '<p style="color: #4c24e0">Postdoctoral fellowship</p> Identification of in-service temperature for a new PBF-LB VDM® 780 Alloy '
+        time: 2025 - ...
+        company: '<a href="https://www.bam.de/Navigation/EN/Home/home.html" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Bundesanstalt für Materialforschung und - prüfung.</a> - Berlin  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="20" title="Germany">'
+        boss: '<i>with Itziar Serrano-Munoz & Mauro Madia '
+        details: |
+          High temperature fatigue experiments on the VDM® 780 Nickel-based Superalloy (in partnership with the German DLR)
+
       - role: '<p style="color: #4c24e0">PhD thesis</p><a href="https://hal.science/tel-04541514v1" style="color: #2f92cb; background-color: #e8f0ff"  target="_blank">Study on the effect of the environment on internal fatigue crack propagation in Ti-6Al-4V</a>'
         time: 2020 - 2023
         company: '<a href="https://mateis.insa-lyon.fr/fr" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Matéis Laboratory</a> - Lyon  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
@@ -97,7 +104,7 @@ experiences:
             - Protocol adaptation and sample design
             - Tomography data post-processing and fracture surface analysis
             - Finite element analysis and thermal aspect study
-#            (- Teaching Engineering part production for undergraduates during one year and a half)
+          This work has been nominated for the <a href="https://www.francetitane.fr/resultats-prix-de-these-titane-2024/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">2024 Thesis Price</a> of the French Titanium Association.
 
       - role: '<p style="color: #4c24e0">Research internship</p> In-situ synchrotron tomography of laser powder bed fusion additive manufacturing'
         time: 2020 (6 months)
@@ -173,6 +180,11 @@ publications:
 #        #link: "#"
 #        authors: L. Hébrard, J.Y. Buffiere, T. Palin-Luc, N. Ranc, M. Majkut, A. King, A. Weck
 #        #conference: "#"
+        
+      - title: "2025 - Deformation mechanisms at the tip of internal fatigue cracks in vacuum and in the presence of an air environment in a Ti alloy"
+        link: "https://doi.org/10.1016/j.ijfatigue.2024.108729"
+        authors: L. Hébrard, T. Palin-Luc, N. Ranc, A. Weck, T. Douillard, N. Blanchard, S. Dancette, J.Y. Buffiere
+        conference: "International Journal of Fatigue, Volume 193, 108729 - April 2025"
         
       - title: "2024 - Grain-level effects on in-situ deformation-induced phase transformations in a complex-phase steel using 3DXRD and EBSD"
         link: "https://doi.org/10.1016/j.actamat.2023.119608"
