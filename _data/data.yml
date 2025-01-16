@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: louis.hebrard@ens-paris-saclay.fr
+    email: louis.hebrard@bam.de
     phone: 
     timezone: 
     citizenship:
@@ -40,6 +40,9 @@ sidebar:
 
         - idiom: Spanish
           level: Basics
+
+        - idiom: German
+          level: Beginner
 
     interests:
       title: Interests
@@ -88,7 +91,7 @@ experiences:
     title: Research projects
     info:
       - role: '<p style="color: #4c24e0">Postdoctoral fellowship</p> Identification of in-service temperature for a new PBF-LB VDM® 780 Alloy '
-        time: 2025 - ...
+        time: since 2025 
         company: '<a href="https://www.bam.de/Navigation/EN/Home/home.html" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Bundesanstalt für Materialforschung und - prüfung</a> - Berlin  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="20" title="Germany">'
         boss: '<i>with Itziar Serrano-Munoz & Mauro Madia '
         details: |
@@ -268,4 +271,4 @@ skills:
         level: 98%
 
 footer: >
-    Last update: December 2023 - Design inspired by <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Sharath Kumar </a>
+    Last update: December 2024 - Design inspired by <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Sharath Kumar </a>
