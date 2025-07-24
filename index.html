@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
 
 {% include experiences.html %}
 <hr align="center" color="070b88" width="35%">
@@ -14,8 +17,6 @@ layout: default
 {% include publications.html %}
 
 
-{% unless site.data.data.sidebar.education %}
-  {% include education.html %}
-{% endunless %}
+
 
 {% include oss-contributions.html %}
