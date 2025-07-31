@@ -95,6 +95,7 @@ experiences:
         company: '<a href="https://www.bam.de/Navigation/EN/Home/home.html" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Bundesanstalt für Materialforschung und - prüfung</a> - Berlin  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="20" title="Germany">'
         boss: '<i>with Itziar Serrano-Munoz & Mauro Madia '
         details: |
+          '<i>with Itziar Serrano-Munoz & Mauro Madia '
           High temperature fatigue experiments on the VDM® 780 Nickel-based Superalloy (in partnership with the German DLR)
 
       - role: '<p style="color: #4c24e0">PhD thesis</p><a href="https://hal.science/tel-04541514v1" style="color: #2f92cb; background-color: #e8f0ff"  target="_blank">Study on the effect of the environment on internal fatigue crack propagation in Ti-6Al-4V</a>'
@@ -102,6 +103,7 @@ experiences:
         company: '<a href="https://mateis.insa-lyon.fr/fr" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Matéis Laboratory</a> - Lyon  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
         boss: '<i>with Jean-Yves Buffiere, Thierry Palin-Luc (<a href="https://www.i2m.u-bordeaux.fr/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">I2M Lab</a> - Bordeaux) & Nicolas Ranc (<a href="https://pimm.artsetmetiers.fr/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">Pimm Lab</a> - Paris) </i>'
         details: |
+          '<i>with Jean-Yves Buffiere, Thierry Palin-Luc (<a href="https://www.i2m.u-bordeaux.fr/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">I2M Lab</a> - Bordeaux) & Nicolas Ranc (<a href="https://pimm.artsetmetiers.fr/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">Pimm Lab</a> - Paris) </i>'
           Synchrotron experiment to study Ti-6Al-4V fatigue crack propagation in the gigacycle regime.
           Study of the effect environment: comparison of crack propagation in air and in vacuum. 
           This work has been nominated for the <a href="https://www.francetitane.fr/resultats-prix-de-these-titane-2024/" style="color: #070b88; background-color: #e8f0ff"  target="_blank">2024 Thesis Price</a> of the French Titanium Association.
@@ -114,6 +116,7 @@ experiences:
         company: '<a href="https://simap.grenoble-inp.fr/" style="color: #4c24e0; background-color: #e8f0ff" target="_blank">Simap Lab</a> in Grenoble & <a href="https://pimm.artsetmetiers.fr/" style="color: #4c24e0; background-color: #e8f0ff" target="_blank">Pimm Lab</a> in Paris <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" title="France">'
         boss: <i>with Pierre Lhuissier, Guilhem Martin, Patrice Peyre & Frédéric Coste</i>
         details: |
+          <i>with Pierre Lhuissier, Guilhem Martin, Patrice Peyre & Frédéric Coste</i>
           Synchrotron microtomography adapted experimental device to study the impacting parameters of the LPBF process
             - Adaptation of the machine to laboratory tests
             - Preliminary tests to validate the protocol
@@ -131,6 +134,7 @@ experiences:
         company: '<a href="https://mtrl.ubc.ca/research/research-groups/microstructure/" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Microstructure group</a> - The University of British Columbia - Vancouver  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png" width="25" title="Canada">'
         boss: <i>with Chad W. Sinclair</i>
         details: |
+          <i>with Chad W. Sinclair</i>
             - Modelisation of grain boundaries and atomistic segregation with a hybrid Molecular Dynamics method
             - Post-processing of numerical data to build free energy diagrams
 
