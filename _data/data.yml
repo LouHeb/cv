@@ -90,14 +90,16 @@ education:
 experiences:
     title: Research projects
     info:
-      - role: '<p style="color: #4c24e0">Postdoctoral fellowship</p> Identification of in-service temperature for a new PBF-LB VDM® 780 Alloy '
+      - role: '<p style="color: #4c24e0">Postdoctoral fellowship</p> Component Safety Department - Division 9.4 Integrity of Welded Joints - Fatigue of component Group '
         time: since 2025 
         company: '<a href="https://www.bam.de/Navigation/EN/Home/home.html" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Bundesanstalt für Materialforschung und - prüfung</a> - Berlin  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="20" title="Germany">'
         boss: <i>with Itziar Serrano-Munoz & Mauro Madia
         details: |
           <i>with Itziar Serrano-Munoz & Mauro Madia
           
-          High temperature fatigue experiments on the VDM® 780 Nickel-based Superalloy (in partnership with the German DLR)
+          Identification of in-service temperature for a new PBF-LB VDM® Alloy 780 (in partnership with the <a href="https://www.dlr.de/de" style="color: #070b88; background-color: #e8f0ff"  target="_blank">German DLR</a>): High temperature fatigue experiments on the VDM® Alloy 780
+          Evaluation of the mechanical properties of repaired highly stressed components for aerospace applications (<a href="https://bam.de/en/topics/projects/core-computerized-refurbishment" style="color: #070b88; background-color: #e8f0ff"  target="_blank">CORE</a> project in partnership with Helmut Schmidt University): Fatigue tests on Aluminum specimens repaired with cold spraying
+          Mechanical tests for various internal projects using different acquisition methods (Digital Image Correlation, Thermal measurements, etc.) on various manufacturing process (Powder Bed Additive Manufacturing, WAAM, Analysis of weldments, etc.)
 
       - role: '<p style="color: #4c24e0">PhD thesis</p><a href="https://hal.science/tel-04541514v1" style="color: #2f92cb; background-color: #e8f0ff"  target="_blank">Study on the effect of the environment on internal fatigue crack propagation in Ti-6Al-4V</a>'
         time: 2020 - 2023
@@ -151,13 +153,17 @@ experiences:
 projects:
     title: Experimental skills
     assignments:
+      - title: 'Laboratory mechanical tests'
+        #link: "#"
+        tagline: "Tensile, Fatigue, at High Temperature, with Thermal measurements..."
+
       - title: '<a href="https://en.wikipedia.org/wiki/Scanning_electron_microscope" style="color: #03053f"  target="_blank">SEM</a>  & <a href="https://en.wikipedia.org/wiki/Electron_backscatter_diffraction" style="color: #03053f"  target="_blank">EBSD</a> '
         #link: "#"
         tagline: "Scanning electron microscope used to analyse metal microstructure."
 
       - title: '<a href="https://www.struers.com/en/Knowledge/Grinding-and-polishing#grindingpolishingmethods" style="color: #03053f"  target="_blank">Polishing and Sample preparation</a>'
         #link: "#"
-        tagline: "Particularly on Ti-6Al-4V samples in order to analyse it with optical microscopy and SEM."
+        tagline: "To analyse materials with optical microscopy and SEM (Ti-6Al-4V, Ni-based)."
 
       - title: '<a href="https://en.wikipedia.org/wiki/X-ray_microtomography" style="color: #03053f"  target="_blank">X-ray microtomography</a>'
         #link: "#"
@@ -166,6 +172,14 @@ projects:
       - title: '<a href="https://www.esrf.fr/home.html" style="color: #03053f"  target="_blank">Synchrotron experiment</a>'
         #link: "#"
         tagline: "Taking part in four-day-long synchrotron projects, from the proposal submission to the data post-processing."
+
+      - title: '<a href="https://en.wikipedia.org/wiki/Neutron_diffraction" style="color: #03053f"  target="_blank">Neutron diffraction analysis</a>'
+        #link: "#"
+        tagline: "In-situ experiments and data post processing (Spectrum peak analyses, Stress partition between phases)."
+
+      - title: '<a href="https://en.wikipedia.org/wiki/Digital_image_correlation_and_tracking" style="color: #03053f"  target="_blank">Digital image correlation</a>'
+        #link: "#"
+        tagline: "In-lab strain fields measurements."
 
 #oss:
 #    title: Teaching experience
@@ -220,10 +234,20 @@ publications:
         conference: "Composites Part A: Applied Science and Manufacturing - 113, pp. 83-94 - 2018
         _______________________"
 
+      - title: 2026 - 14th International Fatigue Congress
+        image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Flag_of_Portugal_%28official%29.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original"
+        link: "https://ifc14.tecnico.ulisboa.pt/"
+        authors: Talk - "Room and High Temperature Fatigue Behavior of a New Ni-based Superalloy VDM®780 Printed by PBF-LB"
+
+      - title: 2025 - 11th Edition of Fatigue Design International Conference
+        image: "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+        link: "https://www.fatiguedesign.org/"
+        authors: Talk - "Comparison of Room and High Temperature Fatigue Behavior of a New LPBF VDM 780 Alloy"
+
       - title: 2023 - FEMS Euromat 2023
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png"
         link: "https://euromat2023.com/"
-        authors: Talk - " Observation of the environment effect on internal fatigue crack propagation in Ti-6Al-4V with in-situ X-ray microtomography"
+        authors: Talk - "Observation of the environment effect on internal fatigue crack propagation in Ti-6Al-4V with in-situ X-ray microtomography"
 
       - title: 2022 - 11th European Solid Mechanics Conference
         image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
@@ -281,4 +305,4 @@ skills:
         level: 98%
 
 footer: >
-    Last update: December 2024 - Design inspired by <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Sharath Kumar </a>
+    Last update: August 2026 - Design inspired by <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Sharath Kumar </a>
