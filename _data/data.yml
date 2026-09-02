@@ -90,16 +90,16 @@ education:
 experiences:
     title: Research projects
     info:
-      - role: '<p style="color: #4c24e0">Postdoctoral fellowship</p> Component Safety Department - Division 9.4 Integrity of Welded Joints - Fatigue of component Group '
+      - role: '<p style="color: #4c24e0">Postdoctoral fellowship</p> Component Safety Department - Division 9.4: Integrity of Welded Joints - Fatigue of component Group '
         time: since 2025 
         company: '<a href="https://www.bam.de/Navigation/EN/Home/home.html" style="color: #4c24e0; background-color: #e8f0ff"  target="_blank">Bundesanstalt für Materialforschung und - prüfung</a> - Berlin  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="20" title="Germany">'
         boss: <i>with Itziar Serrano-Munoz & Mauro Madia
         details: |
           <i>with Itziar Serrano-Munoz & Mauro Madia
           
-          Identification of in-service temperature for a new PBF-LB VDM® Alloy 780 (in partnership with the <a href="https://www.dlr.de/de" style="color: #070b88; background-color: #e8f0ff"  target="_blank">German DLR</a>): High temperature fatigue experiments on the VDM® Alloy 780
-          Evaluation of the mechanical properties of repaired highly stressed components for aerospace applications (<a href="https://bam.de/en/topics/projects/core-computerized-refurbishment" style="color: #070b88; background-color: #e8f0ff"  target="_blank">CORE</a> project in partnership with Helmut Schmidt University): Fatigue tests on Aluminum specimens repaired with cold spraying
-          Mechanical tests for various internal projects using different acquisition methods (Digital Image Correlation, Thermal measurements, etc.) on various manufacturing process (Powder Bed Additive Manufacturing, WAAM, Analysis of weldments, etc.)
+            - Identification of in-service temperature for a new PBF-LB VDM® Alloy 780 (in partnership with the <a href="https://www.dlr.de/de" style="color: #070b88; background-color: #e8f0ff"  target="_blank">German DLR</a>): High temperature fatigue experiments on the VDM® Alloy 780
+            - Evaluation of the mechanical properties of repaired highly stressed components for aerospace applications (<a href="https://bam.de/en/topics/projects/core-computerized-refurbishment" style="color: #070b88; background-color: #e8f0ff"  target="_blank">CORE</a> project in partnership with Helmut Schmidt University): Fatigue tests on Aluminum specimens repaired with cold spraying
+            - Mechanical tests for various internal projects using different acquisition methods (Digital Image Correlation, Thermal measurements, etc.) on various manufacturing process (Powder Bed Additive Manufacturing, WAAM, Analysis of weldments, etc.)
 
       - role: '<p style="color: #4c24e0">PhD thesis</p><a href="https://hal.science/tel-04541514v1" style="color: #2f92cb; background-color: #e8f0ff"  target="_blank">Study on the effect of the environment on internal fatigue crack propagation in Ti-6Al-4V</a>'
         time: 2020 - 2023
